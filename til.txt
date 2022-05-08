@@ -1,0 +1,9 @@
+1. 앞으로 git 프로젝트로 만들고 싶은 것 
+	항해99로 만들 프로젝트
+2. 1주차 주요 개념 키워드 적어보기
+git
+git-hub
+commit
+sourcetree
+push
+pull
